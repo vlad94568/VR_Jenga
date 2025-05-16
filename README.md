@@ -1,1 +1,1 @@
-![til](./VR_Jenga.gif)
+<img src="./VR_Jenga.gif"/>
